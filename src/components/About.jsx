@@ -31,7 +31,7 @@ const About = () => {
         {/* Image (walang animation) */}
         <div>
           <img
-            src="https://scontent.fcrk1-5.fna.fbcdn.net/v/t39.30808-6/346256712_139290952390633_3798380128457331196_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gCGmfFJGQAcQ7kNvwExg9g3&_nc_oc=AdnjH3b3_Te4vuv-0ujLEGdmbbDEuYRYo9HftEnQhIrpkbRfrGgjFUqbq6PiUXNQBXQ&_nc_zt=23&_nc_ht=scontent.fcrk1-5.fna&_nc_gid=gsP_1Ns7H7j6e0LzmjS6CA&oh=00_AfVeiTXX0c8C2Pjqn7cM-2qG9YPwW60LVW3pTyRANt-hPw&oe=68A8C857"
+            src="https://scontent.fcrk1-5.fna.fbcdn.net/v/t39.30808-6/346256712_139290952390633_3798380128457331196_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVG3ZwbVht0jFziu2EzsALR_BtEHETmVhH8G0QcROZWGG-IA6Qk-io1tbX8-US3ePzT8KFzdt4Y3Xkt84sMs7a&_nc_ohc=5Xnlwi5PB84Q7kNvwGyju1o&_nc_oc=AdluTXe-M0lv0VG38kaFYD84LEFz03MNCzTlV09aFm2KsTBBW-cGarMPlnPsi_894Sg&_nc_zt=23&_nc_ht=scontent.fcrk1-5.fna&_nc_gid=ML6rAwX9yH1C64d6jgNhiQ&oh=00_AfYs3ORrsBQNtEyhCtJVMBXcBd9u9YZXrOjht_rzYhWoYQ&oe=68D16E97"
             alt="CJ Valdez"
             className="rounded-md shadow-md w-full object-cover"
           />
